@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+.terraform
+terraform-vps/.terraform
+terraform-vps/.terraform.lock.hcl
